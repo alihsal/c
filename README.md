@@ -1,1 +1,3 @@
-![C logo](https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg" />
+</p>
