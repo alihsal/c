@@ -1,1 +1,1 @@
-![C logo](https://en.wikipedia.org/wiki/C_(programming_language)#/media/File:C1stEdition.svg)
+![C logo](https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg)
