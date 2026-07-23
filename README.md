@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/C1stEdition.svg" width = "200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 </p>
